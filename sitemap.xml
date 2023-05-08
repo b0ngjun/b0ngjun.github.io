@@ -2,14 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://b0ngjun.github.io/archives/</loc>
+    <loc>https://b0ngjun.github.io/posts/230508_article/</loc>
+    <lastmod>2023-05-08T21:56:06+09:00</lastmod>
+  </url><url>
+    <loc>https://b0ngjun.github.io/tags/archving/</loc>
+    <lastmod>2023-05-08T21:56:06+09:00</lastmod>
+  </url><url>
+    <loc>https://b0ngjun.github.io/categories/article/</loc>
+    <lastmod>2023-05-08T21:56:06+09:00</lastmod>
   </url><url>
     <loc>https://b0ngjun.github.io/</loc>
+    <lastmod>2023-05-08T21:56:06+09:00</lastmod>
   </url><url>
     <loc>https://b0ngjun.github.io/categories/</loc>
+    <lastmod>2023-05-08T21:56:06+09:00</lastmod>
   </url><url>
-    <loc>https://b0ngjun.github.io/search/</loc>
+    <loc>https://b0ngjun.github.io/tags/link/</loc>
+    <lastmod>2023-05-08T21:56:06+09:00</lastmod>
+  </url><url>
+    <loc>https://b0ngjun.github.io/posts/</loc>
+    <lastmod>2023-05-08T21:56:06+09:00</lastmod>
   </url><url>
     <loc>https://b0ngjun.github.io/tags/</loc>
+    <lastmod>2023-05-08T21:56:06+09:00</lastmod>
+  </url><url>
+    <loc>https://b0ngjun.github.io/archives/</loc>
+  </url><url>
+    <loc>https://b0ngjun.github.io/search/</loc>
   </url>
 </urlset>
